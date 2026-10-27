@@ -57,5 +57,3 @@ jobs:
           coverity_prComment_impacts: High,Medium,Low,Audit
 
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-          include_diagnostics: true
